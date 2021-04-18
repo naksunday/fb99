@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tube2fb.net	TRUE	/	FALSE	1999999999	PHPSESSID	af6fc8ece041cf5fd2d90c0081913f9d
+.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	d3e5aa354cc447ea2a809a3b5d59bee731618761029
+kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.tube2fb.net	TRUE	/	FALSE	1999999999	return_url	%2Fpages%2Fpe.html
+
